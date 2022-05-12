@@ -36,13 +36,21 @@ echo Parte4 *********************************************************
 
 1. Menciona los 3 tipos de merge
 
+Merge normal
+Merge fastforward
+Merge recursivo
+
 2. para que sirve el alias?
+Crea accesos rápidos a los comandos de git que desees, con ellos puedes escribir largas lineas de comandos y argumentos de forma corta.
 
 3. cual es el comando para crear ramas y movernos a ellas en una sola linea?
+git checkout -b "Nombre_de_la_rama"
 
 3. Cual es la diferencia entre git y github
+Git es software controlador de versiones a traves de repositorios y github es una plataforma de alojamiento de repositorios de git de forma remota.
 
 4. Que has entendido por devops?
+Es un conjunto de herramientas que permiten crear software y aplicaciones de manera eficiente y colaborativa entre un equipo de trabajo, además de que permite el mantenimiento y correción de errores del software desarrollado.
 
 5. Haz un rebase de la rama SCRUM a esta rama
 de tal suerte que tendras la parte 2 3 y 4 en este documento
